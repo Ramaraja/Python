@@ -33,7 +33,6 @@
 17. Add a movie to the list and print updated list  
 18. Loop and print each movie in the list  
 
----
 
 ## Logic & Data Structures
 
@@ -81,7 +80,6 @@
     - Print Intersection  
     - Print A minus B  
 
----
 
 ## File Handling + Logical Thinking
 
@@ -96,5 +94,4 @@
 46. Check if a number is an Armstrong number  
 47. Count how many characters appear more than once in a string  
 
----
 
